@@ -8,7 +8,7 @@ lint-fix:
 	npx eslint --fix .
 video:
 	asciinema rec demo.cast --overwrite
-videoup:
+video-up:
 	asciinema upload demo.cast
 gendiff:
 	node bin/gendiff.js

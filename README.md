@@ -11,4 +11,8 @@
 - создать локальную связь (команда `npm link`, может потребоваться запуск с sudo)
 
 #### Демонстрация:
+Two plain JSON files compare:
 [![asciicast](https://asciinema.org/a/8GsJ53tUQKbwhTsGl0a8mWEWZ.svg)](https://asciinema.org/a/8GsJ53tUQKbwhTsGl0a8mWEWZ)
+
+Two plain YML files compare:
+[![asciicast](https://asciinema.org/a/MiQfKemfLUfuo0GHKzIajzHRY.svg)](https://asciinema.org/a/MiQfKemfLUfuo0GHKzIajzHRY)
