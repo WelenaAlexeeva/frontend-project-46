@@ -22,4 +22,3 @@ test('yaml', () => {
   const fileContent = readFixtureFile('result.txt').trim();
   expect(response.trim()).toEqual(fileContent);
 });
-
