@@ -5,11 +5,7 @@ const stringify = (data) => {
     return '[complex value]';
   }
 
-  if (typeof data === 'string') {
-    return `'${data}'`;
-  }
-
-  return data;
+  return typeof data === 'string' ? `'${data}'` : `${data}`;
 };
 
 const plain = (data) => {
