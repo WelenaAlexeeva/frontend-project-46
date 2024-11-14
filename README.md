@@ -16,3 +16,9 @@ Two plain JSON files compare:
 
 Two plain YML files compare:
 [![asciicast](https://asciinema.org/a/MiQfKemfLUfuo0GHKzIajzHRY.svg)](https://asciinema.org/a/MiQfKemfLUfuo0GHKzIajzHRY)
+
+Two JSON files with nested objects compare (stylish formatter)
+[![asciicast](https://asciinema.org/a/5gMMddZ9BxswC8j1ANE9JmaQW.svg)](https://asciinema.org/a/5gMMddZ9BxswC8j1ANE9JmaQW)
+
+Two YML files with nested objects compare (stylish formatter)
+[![asciicast](https://asciinema.org/a/ZA5ZU0KLCI38l3flFsxzR1T9L.svg)](https://asciinema.org/a/ZA5ZU0KLCI38l3flFsxzR1T9L)
