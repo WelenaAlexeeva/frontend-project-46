@@ -36,3 +36,17 @@ test('yaml, formatter Plain', () => {
   const fileContent = readFixtureFile('result-plain.txt').trim();
   expect(response.trim()).toEqual(fileContent);
 });
+test('json, formatter Json', () => {
+  const file1 = getFixture('file1.json');
+  const file2 = getFixture('file2.json');
+  const response = genDiff(file1, file2, 'json');
+  const fileContent = readFixtureFile('result-json.txt').trim();
+  expect(response.trim()).toEqual(fileContent);
+});
+test('yaml, formatter Json', () => {
+  const file1 = getFixture('file1.yaml');
+  const file2 = getFixture('file2.yaml');
+  const response = genDiff(file1, file2, 'json');
+  const fileContent = readFixtureFile('result-json.txt').trim();
+  expect(response.trim()).toEqual(fileContent);
+});

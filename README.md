@@ -25,3 +25,6 @@ Two YML files with nested objects compare (stylish formatter)
 
 Plain formatter
 [![asciicast](https://asciinema.org/a/iFk59lpRvzrtyKUr4P5K1zVmi.svg)](https://asciinema.org/a/iFk59lpRvzrtyKUr4P5K1zVmi)
+
+JSON formatter
+[![asciicast](https://asciinema.org/a/8rfg4iqlUFHSHt4HxYucsZDIe.svg)](https://asciinema.org/a/8rfg4iqlUFHSHt4HxYucsZDIe)
