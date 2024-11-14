@@ -2,7 +2,7 @@ import path from 'path';
 import fs from 'fs';
 import _ from 'lodash';
 import parseFile from './parsers.js';
-import formatter from './formatter.js';
+import formatter from './formatters/index.js';
 
 const genDiff = (obj1, obj2) => {
   const keys1 = Object.keys(obj1);

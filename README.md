@@ -22,3 +22,6 @@ Two JSON files with nested objects compare (stylish formatter)
 
 Two YML files with nested objects compare (stylish formatter)
 [![asciicast](https://asciinema.org/a/ZA5ZU0KLCI38l3flFsxzR1T9L.svg)](https://asciinema.org/a/ZA5ZU0KLCI38l3flFsxzR1T9L)
+
+Plain formatter
+[![asciicast](https://asciinema.org/a/iFk59lpRvzrtyKUr4P5K1zVmi.svg)](https://asciinema.org/a/iFk59lpRvzrtyKUr4P5K1zVmi)

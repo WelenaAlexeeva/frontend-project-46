@@ -38,12 +38,4 @@ const stylish = (data) => {
   return iter(data, 0);
 };
 
-const formatter = (tree, format) => {
-  switch (format) {
-    case 'stylish':
-      return stylish(tree);
-    default:
-      throw new Error(`format ${format} not supported. Choose 'stylish', 'plain' or 'json'`);
-  }
-};
-export default formatter;
+export default stylish;
